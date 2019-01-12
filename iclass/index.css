@@ -1,0 +1,59 @@
+/*title {
+	background-color: #0099ff;
+}*/
+
+.blueBackground {
+	/*background-color: #0099ff;*/
+	/*position: absolute;
+	top: 0px;
+	left: 0px;*/
+	background: #0099ff;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+}
+
+p.my_title {
+	height: 60px;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 30px;
+}
+
+.search {
+	margin: 20px;
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+}
+
+.inline {
+	display: inline;
+}
+
+p.type {
+	margin-right: 10px;
+	color: #0099ff;
+	font-weight: bold;
+}
+
+div.type {
+	margin-right: 20px;
+}
+
+div.result {
+	width: 70%;
+	text-align: left;
+	margin: auto;
+}
+
+button.room {
+	margin: 10px;
+}
+
+/*button.submit {
+	background: #0099ff;
+	color: #ffffff;
+	font-weight: bolder;
+
+}*/
